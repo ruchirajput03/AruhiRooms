@@ -9,7 +9,7 @@ const bookingRoutes=require('./routes/bookingRoutes')
 dotenv.config();
 // Enable CORS for multiple origins (local and production)
 const allowedOrigins = [
-  "https://merry-truffle-8ab43b.netlify.app", // Production domain
+    "https://ornate-starlight-96a31e.netlify.app", // Production domain
   "http://localhost:3000", // Development domain
 ];
 
